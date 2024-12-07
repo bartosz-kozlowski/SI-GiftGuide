@@ -1,5 +1,7 @@
 # SI-GiftGuide
 
+![App Screenshot](App.png)
+
 ## Autorzy projektu:
 * Bartosz Kozłowski 155869
 * Agnieszka Maleszka 155941
